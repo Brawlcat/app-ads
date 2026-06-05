@@ -2733,3 +2733,4 @@ zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
 bidease.com, bidease_seller_26, RESELLER
+applovin.com, 58b10c83832539a8f0ce3c49caceff39, DIRECT

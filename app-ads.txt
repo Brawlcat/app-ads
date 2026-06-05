@@ -2734,3 +2734,32 @@ zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
 bidease.com, bidease_seller_26, RESELLER
 applovin.com, 58b10c83832539a8f0ce3c49caceff39, DIRECT
+anzu.io, 6995dd6e4b45334cc758cd8f, reseller
+sharethrough.com, uvcax8il, reseller, d53b998a7bd4ecd2
+smilewanted.com, 6022, reseller
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, reseller
+smaato.com, 1100059052, reseller, 07bcf65f187117b4
+e-volution.ai, ajxf6r378a9m6catvk, reseller
+smaato.com, 1100053415, reseller, 07bcf65f187117b4
+zetaglobal.net, 630, reseller
+improvedigital.com, 2607, reseller
+sharethrough.com, 3232, reseller, d53b998a7bd4ecd2
+growintech.co, 102275, reseller, 9d8dfe5c6b00fb37
+indexexchange.com, 215209, reseller, 50b1c356f2c5c8fc
+selectmedia.asia, 645b5a31e427dc0a87094fc4, reseller, e365c871a27c655d
+conversantmedia.com, 100357, reseller, 03113cd04947736d
+onlinemediasolutions.com, 29556, reseller, b3868b187e4b6402
+tradplusad.com, ba761e9c72f279da, reseller
+yellowhead.com, 67b9c0a1d2e345, reseller
+criteo.com, b-062019, reseller, 9fac4a4a87c2a44f
+axonix.com, 57716, reseller
+playdigo.com, 2010, reseller
+themediagrid.com, ws2d8n, reseller, 35d5010d7789b49d
+themediagrid.com, 29in8p, reseller, 9fac4a4a87c2a44f
+bluexad.ai, 1947919201712738304, reseller
+outbrain.com, 00092743fa380569f00f929c5c50dfccf8, reseller
+rubiconproject.com, 13380, reseller, 0bfd66d529a55807
+sharethrough.com, 3817, reseller, d53b998a7bd4ecd2
+gitberry.com, 335100012, reseller
+bidmachine.io, 101, reseller
+loopme.com, 15665, reseller, 6c8d5f95897a5a3b
